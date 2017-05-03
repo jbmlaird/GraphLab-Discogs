@@ -1,3 +1,5 @@
 discogs.csv
 /.ipynb_checkpoints
 discogskey.txt
+/item_similarity_default
+/item_similarity_ials
